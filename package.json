@@ -89,6 +89,7 @@
   },
   "defDependencies": {},
   "dependencies": {
-    "lodash": "^4.12.0"
+    "lodash": "^4.12.0",
+    "travis-after-all": "^1.4.4"
   }
 }
